@@ -7,7 +7,7 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irfannasyakban&label=Profile%20views&color=0e75b6&style=flat" alt="irfannasyakban" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=irvannasyakban&label=Profile%20views&color=0e75b6&style=flat" alt="irvannasyakban" /> </p>
 
 - 🌱 I’m currently learning **Cloud Computing, FullStack Dev**
 
