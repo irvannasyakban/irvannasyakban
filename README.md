@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irvannasyakban&label=Profile%20views&color=0e75b6&style=flat" alt="irvannasyakban" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing, FullStack Dev**
+- 🌱 I’m currently learning **Cloud Computing, FullStack Developer**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
